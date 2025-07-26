@@ -33,11 +33,11 @@ export default function LayoutShell() {
           >
             <Button
               variant="ghost"
-              size="xlIcon"
+              size="icon"
               className="text-white"
               onClick={() => setOpen(!open)}
             >
-              <Menu className="size-8" />
+              <Menu className="size-10" />
             </Button>
           </div>
 

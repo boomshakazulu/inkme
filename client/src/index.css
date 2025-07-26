@@ -18,7 +18,6 @@
   --radius-xl: 1rem;
 }
 
-/* ✅ These tell Tailwind how to interpret your theme vars */
 @layer utilities {
   .bg-background {
     background-color: var(--background);
